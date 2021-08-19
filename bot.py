@@ -23,7 +23,7 @@ purpose_options.select_by_index(random.randint(1, len(purpose_options.options)))
 #print(len(purpose_options.options))
 #all_options= purpose_options.options
 #for opts in all_options:
-    #print(opts.text)
+    #print(opts.text).     Not neccesary just testing
 
 #APR = driver.find_elements_by_class_name("vertical-align-middle")
 #print(APR)
